@@ -20,6 +20,8 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 Full adder is a digital circuit used to calculate the sum of three binary bits. It consists of three inputs and two outputs. Two of the input variables, denoted by A and B, represent the two significant bits to be added. The third input, Cin, represents the carry from the previous lower significant position. Two outputs are necessary because the arithmetic sum of three binary digits ranges in value from 0 to 3, and binary 2 or 3 needs two digits. The two outputs are sum and carry.
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
+![Screenshot 2023-11-26 142950](https://github.com/Mohanraj2006/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152195759/0a2a3c32-13d6-4cfd-91e0-71f629c7140f)
+![Screenshot 2023-11-26 141707](https://github.com/Mohanraj2006/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152195759/608932f9-1a7a-4d81-a8ed-87dd18ed2554)
 
  ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
 
